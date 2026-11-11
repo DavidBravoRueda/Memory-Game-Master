@@ -1,0 +1,33 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="cardScript1">
+			<method name="flipcard"/>
+			<method name="flipcard"/>
+			<method name="flipcard"/>
+			<method name="flipcard"/>
+			<method name="flipcard"/>
+			<method name="flipcard"/>
+			<method name="flipcard"/>
+			<method name="flipcard"/>
+		</type>
+		<type fullname="gameManager">
+			<method name="reScores"/>
+		</type>
+		<type fullname="gameManager1">
+			<method name="reGame"/>
+			<method name="reMenu"/>
+			<method name="resscore"/>
+		</type>
+		<type fullname="menuScript1">
+			<method name="triggerMenu"/>
+			<method name="triggerMenu"/>
+			<method name="triggerMenu"/>
+		</type>
+		<type fullname="ScoresManager">
+			<method name="GoBack"/>
+		</type>
+		<type fullname="ScoresManager1">
+			<method name="GoBack"/>
+		</type>
+	</assembly>
+</linker>
